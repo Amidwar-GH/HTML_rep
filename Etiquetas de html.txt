@@ -1,0 +1,2 @@
+<tittle> (texto) <\tittle> : Etiqueta de título.
+<p> (texto) <\p> : Etiqueta de párrafo.
