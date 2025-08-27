@@ -9,3 +9,10 @@
 .
 .
 <h6> (subtitulo) <\h6> (MENOS GRANDE)
+
+
+<html> 
+
+CONTENIDO
+
+<\html>
