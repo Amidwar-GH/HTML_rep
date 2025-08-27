@@ -1,2 +1,11 @@
 <tittle> (texto) <\tittle> : Etiqueta de título.
 <p> (texto) <\p> : Etiqueta de párrafo.
+
+(TIPOS DE SUBTITULOS)
+<h1> (subtitulo) <\h1>  (MAS GRANDE)
+<h2> (subtitulo) <\h2>
+<h3> (subtitulo) <\h3>
+.
+.
+.
+<h6> (subtitulo) <\h6> (MENOS GRANDE)
