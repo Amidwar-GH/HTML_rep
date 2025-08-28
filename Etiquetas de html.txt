@@ -31,3 +31,8 @@ _________________________________
 lang -> lenguaje
 es -> español
 en -> ingles
+________________________________
+
+<headers> ENCABEZADO <headers />
+
+
