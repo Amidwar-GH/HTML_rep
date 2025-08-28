@@ -21,8 +21,10 @@ _____________________
 <head> (ENCABEZADO) <\head>
 (la unica etiqueta visible dentro de head es <tittle>)
 <meta /> etiqueta que no tiene cierre como las demás.
+    dentro de meta tenemos name,content y charset 
     dentro de meta tenemos atributos como: name="description" y content="Esta es mi primera pagina web"
-
+    a mas <meta /> mas informacion tendra el navegador para posicionar la pagina en el TOP
+    el meta charset es para poder usar emoticones o tildes o varias cosas en las letras
 <body> (CUERPO) <\body>
 _________________________________
 <html lang = "es">
