@@ -20,6 +20,9 @@ _____________________
 
 <head> (ENCABEZADO) <\head>
 (la unica etiqueta visible dentro de head es <tittle>)
+<meta /> etiqueta que no tiene cierre como las demás.
+    dentro de meta tenemos atributos como: name="description" y content="Esta es mi primera pagina web"
+
 <body> (CUERPO) <\body>
 _________________________________
 <html lang = "es">
