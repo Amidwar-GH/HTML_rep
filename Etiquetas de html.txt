@@ -20,3 +20,8 @@ _____________________
 
 <head> (ENCABEZADO) <\head>
 <body> (CUERPO) <\body>
+
+<html lang = "es">
+lang -> lenguaje
+es -> español
+en -> ingles
