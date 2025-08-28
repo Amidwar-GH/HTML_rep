@@ -19,8 +19,9 @@ CONTENIDO
 _____________________
 
 <head> (ENCABEZADO) <\head>
+(la unica etiqueta visible dentro de head es <tittle>)
 <body> (CUERPO) <\body>
-
+_________________________________
 <html lang = "es">
 lang -> lenguaje
 es -> español
