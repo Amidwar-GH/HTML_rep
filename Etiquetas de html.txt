@@ -35,4 +35,7 @@ ________________________________
 
 <headers> ENCABEZADO <headers />
 
+<ul> lista <ul ->  ul -> under lista
+<li> <li />  -> list item
 
+<section> CONTENIDO PRINCIPAL <section />
