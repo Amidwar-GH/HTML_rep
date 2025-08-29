@@ -46,3 +46,9 @@ ________________________________
                             que en relacion con section. (CONTENIDO LATERAL)
 
 <footers> <footers/>  -> Para el pie de página o elemnto o párrafo 
+
+<blockquote cite="LINK de la cita (ojo, no te envía a otra pagina)">
+    Cita de un libro
+<blockquote>
+
+
