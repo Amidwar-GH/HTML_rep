@@ -41,3 +41,8 @@ ________________________________
 <section> CONTENIDO PRINCIPAL <section />
 
 <Time datetime="Fecha"> (FECHA) <time />
+
+<aside> texto <aside />   -> Para colocar contenido que no es muy relevante claro 
+                            que en relacion con section. (CONTENIDO LATERAL)
+
+<footers> <footers/>  -> Para el pie de página
