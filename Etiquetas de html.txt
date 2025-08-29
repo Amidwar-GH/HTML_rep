@@ -51,4 +51,8 @@ ________________________________
     Cita de un libro
 <blockquote>
 
+PARA IR A OTRO ENLACE (HIPERENLACE)
+<a href="LINK DEL SITIO WEB"> TEXTO (ejemplo, visita mi GITHUB)</a>
+ponemos el <a> </a> dentro de un <address> </address> -> Para indicar que es un LINK
+
 
