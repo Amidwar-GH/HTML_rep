@@ -55,4 +55,7 @@ PARA IR A OTRO ENLACE (HIPERENLACE)
 <a href="LINK DEL SITIO WEB"> TEXTO (ejemplo, visita mi GITHUB)</a>
 ponemos el <a> </a> dentro de un <address> </address> -> Para indicar que es un LINK
 
+para gregar imagenes
+<img src="">  -> ESTA NO TIENE CIERRE y el src significa source
+
 
