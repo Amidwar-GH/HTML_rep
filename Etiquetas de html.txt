@@ -45,4 +45,4 @@ ________________________________
 <aside> texto <aside />   -> Para colocar contenido que no es muy relevante claro 
                             que en relacion con section. (CONTENIDO LATERAL)
 
-<footers> <footers/>  -> Para el pie de página
+<footers> <footers/>  -> Para el pie de página o elemnto o párrafo 
